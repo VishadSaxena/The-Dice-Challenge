@@ -1,0 +1,41 @@
+body{
+    background-color: #354259;
+    color: #53BF9D;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 900%;
+    padding-top: 1rem;
+    font-family: 'Lobster', cursive;
+}
+
+p{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+span{
+    padding: 2rem 4rem;
+}
+
+.player-details{
+    font-size: 200%;
+}
+
+.players{
+    text-align: center;
+}
+
+img{
+    padding-bottom: 3%;
+}
+
+footer{
+    text-align: center;
+    padding: 4%;
+    background-color: #fff;
+    color: #354259;
+    font-size: 150%;
+}
